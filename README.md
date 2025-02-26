@@ -4,9 +4,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaducodes&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaducodes&layout=compact&theme=radical)
-![Status de commits](https://github-readme-streak-stats.herokuapp.com/?user=kaducodes&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&hide=jupyter%20notebook&layout=compact&theme=radical)
+
+
 
 <!--
 **kaducodes/kaducodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
