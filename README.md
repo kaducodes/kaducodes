@@ -7,7 +7,7 @@
 
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaducodes&hide=jupyter%20notebook&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaducodes&hide=jupyter%20notebook&layout=compact&theme=radical&langs_count=5)
 
 
 
