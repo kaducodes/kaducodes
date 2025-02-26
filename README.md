@@ -3,6 +3,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaducodes&hide=jupyter%20notebook&layout=compact&theme=radical)
