@@ -36,7 +36,7 @@ Estou sempre em busca de aprender mais, colaborar com projetos e criar soluçõe
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=flat-square&logo=autodesk&logoColor=white)
 
 ---
-
+<!--
 ### 📌 Projetos em Destaque
 
 🔹 [**Projeto 1 – Automação com Python**](https://github.com/kaducodes/nome-do-repo1)  
@@ -59,6 +59,7 @@ Visualização de dados com Python + Pandas + Matplotlib/Plotly.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
 ---
+-->
 
 ### 📊 Estatísticas GitHub
 
